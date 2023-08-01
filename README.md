@@ -3,11 +3,11 @@
 _SHAREME is a Single Page Application built with React that serves as a social network to exchange pictures with other people._
 
 <br><br>
-<img width="45%" alt="homepage" src="./screenshots/home.png">
-<img width="44.5%" alt="pin" src="./screenshots/pin.png">
-<img width="45%" alt="pin-detail" src="./screenshots/pin-detail.png">
-<img width="44.5%" alt="add-pin-page" src="./screenshots/createPin.png">
-<img width="45%" alt="user-page" src="./screenshots/userProfile.png">
+<img width="90%" alt="homepage" src="./screenshots/home.png">
+<img width="90%" alt="pin" src="./screenshots/pin.png">
+<img width="90%" alt="pin-detail" src="./screenshots/pin-detail.png">
+<img width="90%" alt="add-pin-page" src="./screenshots/createPin.png">
+<img width="90%" alt="user-page" src="./screenshots/userProfile.png">
 <br><br>
 
 [Homepage] contains a collage of pins, list of categories, search bar and a button to add a new pin.

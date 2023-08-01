@@ -24,13 +24,14 @@ _SHAREME is a Single Page Application built with React that serves as a social n
 ## Adaptation
 
 <br><br>
-<img width="30%" style="margin-right: 20px" alt="homepage" src="./screenshots/tablet_home.png">
-<img width="30%" style="margin-right: 20px" alt="create-pin page" src="./screenshots/tablet_createPin.png">
-<img width="30%" style="margin-right: 20px" alt="pin-detail page" src="./screenshots/tablet_pin-detail.png">
-<img width="20%" style="margin-right: 20px" alt="homepage" src="./screenshots/mobile_menu.png">
-<img width="20%" style="margin-right: 20px" alt="create-pin page" src="./screenshots/mobile_createPin.png">
-<img width="20%" style="margin-right: 20px" alt="pin-detail page" src="./screenshots/mobile_pin-detail.png">
-<img width="20%" style="margin-right: 20px" alt="user profile page" src="./screenshots/mobile_user-profile.png">
+<img width="30%" alt="homepage" src="./screenshots/tablet_home.png">
+<img width="30%" alt="create-pin page" src="./screenshots/tablet_createPin.png">
+<img width="30%" alt="pin-detail page" src="./screenshots/tablet_pin-detail.png">
+<br><br>
+<img width="20%" alt="homepage" src="./screenshots/mobile_menu.png">
+<img width="20%" alt="create-pin page" src="./screenshots/mobile_createPin.png">
+<img width="20%" alt="pin-detail page" src="./screenshots/mobile_pin-detail.png">
+<img width="20%" alt="user profile page" src="./screenshots/mobile_user-profile.png">
 <br><br>
 
 ## Tech stack

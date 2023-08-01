@@ -24,13 +24,13 @@ _SHAREME is a Single Page Application built with React that serves as a social n
 ## Adaptation
 
 <br><br>
-<img width="45%" style="margin-rigth: 20px" alt="homepage" src="./screenshots/tablet_home.png">
-<img width="45%" style="margin-rigth: 20px" alt="create-pin page" src="./screenshots/tablet_createPin.png">
-<img width="45%" style="margin-rigth: 20px" alt="pin-detail page" src="./screenshots/tablet_pin-detail.png">
-<img width="45%" style="margin-rigth: 20px" alt="homepage" src="./screenshots/mobile_home.png">
-<img width="45%" style="margin-rigth: 20px" alt="create-pin page" src="./screenshots/mobile_createPin.png">
-<img width="45%" style="margin-rigth: 20px" alt="pin-detail page" src="./screenshots/mobile_pin-detail.png">
-<img width="45%" style="margin-rigth: 20px" alt="user profile page" src="./screenshots/mobile_user-profile.png">
+<img width="30%" style="margin-rigth: 20px" alt="homepage" src="./screenshots/tablet_home.png">
+<img width="30%" style="margin-rigth: 20px" alt="create-pin page" src="./screenshots/tablet_createPin.png">
+<img width="30%" style="margin-rigth: 20px" alt="pin-detail page" src="./screenshots/tablet_pin-detail.png">
+<img width="20%" style="margin-rigth: 20px" alt="homepage" src="./screenshots/mobile_home.png">
+<img width="20%" style="margin-rigth: 20px" alt="create-pin page" src="./screenshots/mobile_createPin.png">
+<img width="20%" style="margin-rigth: 20px" alt="pin-detail page" src="./screenshots/mobile_pin-detail.png">
+<img width="20%" style="margin-rigth: 20px" alt="user profile page" src="./screenshots/mobile_user-profile.png">
 <br><br>
 
 ## Tech stack
